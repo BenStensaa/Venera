@@ -1,0 +1,12 @@
+"versions": [
+    ...
+    {
+        "id": "1.0.2",
+        "releasedAt": 1779118167939,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/BenStensaa/Venera/releases/tag/v1.0.2"
+            }
+        }
+    }
+]
