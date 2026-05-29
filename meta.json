@@ -55,6 +55,15 @@
           "generic": "https://github.com/BenStensaa/Venera/releases/tag/v1.0.5"
         }
       }
+    },
+    {
+      "id": "1.0.6",
+      "releasedAt": 1779493200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/BenStensaa/Venera/releases/tag/v1.0.6"
+        }
+      }
     }
   ]
 }
